@@ -46,7 +46,7 @@ h3 {
 
 p {
     color: #FF9D5D;
-    font-size: 16px;
+    font-size: 1rem;
 }
  
 header {
@@ -89,7 +89,7 @@ code {
 
 .slider li img {
     position: relative;
-    width: 98%;
+    width: 95%;
     margin-right: 2.5%;
     margin-left: 2.5%;
     z-index: 8888;
@@ -209,13 +209,11 @@ code {
     color: #ffffff;
     padding: 5px;
     padding-top: 10px;
-    margin-top: 5px;
     margin-bottom: 5px;
     list-style: none;
     background-image: linear-gradient(rgba(247, 8, 8, 0.5), #ED851D );
     border-radius: 10px;
-    height: 40px;
-    /*font-size: 16px;*/
+
 }
 
 
